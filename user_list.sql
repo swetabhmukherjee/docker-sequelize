@@ -1,0 +1,1 @@
+CREATE TABLE Users(id INT(10) primary key auto_increment, name varchar(20) not null, sector varchar(10));
